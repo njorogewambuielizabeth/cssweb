@@ -11,6 +11,14 @@
     padding: 0 10 0px;
     text-align: center;
 }
+.cover{
+    border: solid;
+    border-bottom: none;
+    border-color: blue;
+    border-radius: 1%;
+    border-width: 70px;
+
+}
 .words{
     color: darkblue;
     text-align: center;
