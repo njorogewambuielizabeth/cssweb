@@ -1,0 +1,124 @@
+.logo{
+    width: 15%;
+
+}
+.navigation{
+    background-color: white;
+    height: 20px;
+    overflow: hidden;
+    float :right ;
+    margin-top: -15px;
+    padding: 0 10 0px;
+    text-align: center;
+}
+.words{
+    color: darkblue;
+    text-align: center;
+    text-size-adjust: 50px;
+}
+.sub{
+    color:darkblue;
+    text-align: center;
+}
+.open{
+    color: rgb(47, 255, 106);
+}
+.main{
+    margin-right: 10%;
+    padding: 20px;
+    text-align: center;
+    text-size-adjust: 15px;
+    }
+    .inside{
+        color: aquamarine;
+    }
+    .merge{
+        color: rgb(0, 208, 255);
+    }
+.button{
+   background-color:  blueviolet;
+   text-align: center;
+   margin-left: 12%;
+   
+   background-attachment: fixed;
+}
+.bottom{
+    color: darkblue;
+}
+.pic{
+    width: 100%;
+    padding-bottom: 30px;
+}
+.heading{
+    color: darkblue;
+    display: flex;
+    margin: 15px;
+}
+.logos{
+    width: 100px;
+    display: inline-block;
+    align-items: baseline;
+    margin: 15px;
+}
+.lines{
+    display: flex;
+    justify-content: end;
+    gap: 15px;
+    margin-top: -14em;
+    padding: 15px;
+
+}
+.line1{
+    background-color: rgb(155, 209, 209);
+    border-radius: 10px;
+    padding-left: 4px;
+    
+}
+.line2{
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 15px;
+}
+.line3{
+    background-color: pink;
+    border-radius: 10px;
+}
+.bottom{
+    color: darkblue;
+    margin: 10%;
+    margin-top: 10em;
+    text-align: left
+
+}
+.under{
+    background-color: blue;
+    margin: 10%;
+    padding-bottom: 20px;
+    margin-top: -4em;
+    text-decoration-color: azure;
+}
+.content{
+    justify-content: end;
+    display: flex;
+    padding-bottom: 100px;
+    margin-top: -20em;
+    
+}
+.under1{
+margin: 10px;
+}
+.under1 hr{
+    border-top: 3px solid blue;
+}
+.under2{
+margin: 10px;
+}
+.under2 hr{
+    border-top: 3px solid red;
+}
+.under3{
+margin: 10px;
+}
+.under3 hr{
+    border-top: 3px solid green;
+}
