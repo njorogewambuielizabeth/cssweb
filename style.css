@@ -52,6 +52,8 @@
     margin: 4%;
     padding:10px 20px;
     margin-top: -4em;
+    border-radius: 8px;
+    color: white;
     
 }
 
@@ -108,7 +110,8 @@
     margin: 4%;
     padding-bottom: 20px;
     margin-top: -4em;
-    text-decoration-color: azure;
+    color: white;
+    border-radius: 10px;
 }
 .content{
     justify-content: end;
